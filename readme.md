@@ -1,5 +1,5 @@
 # Important Notice
-I no longer recommend using Dipper in 2025, as Dipper has been rewritten in C by another user for better performance. I would like to redirect anyone with a Riffmaster/Sony Rock Band controller to [Clipper](https://github.com/Rosalie241/clipper)
+I no longer recommend using Dipper in 2026, as Dipper has been rewritten in C by another user for better performance. I would like to redirect anyone with a Riffmaster/Sony Rock Band controller to [Clipper](https://github.com/Rosalie241/clipper)
 
 Thank you.
 
